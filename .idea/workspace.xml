@@ -4,21 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41142288-a76f-4060-a5c1-44c78f7da221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/untitled.vpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/untitled.vpp.bak_000f" afterDir="false" />
+    <list default="true" id="41142288-a76f-4060-a5c1-44c78f7da221" name="Changes" comment="added vpp file">
+      <change afterPath="$PROJECT_DIR$/src/pictures/Sequence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SequenceCafedra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SequenceCourse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SequenceDean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SequenceFaculty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SequenceProject.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/StateMachine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/generated.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/usecase.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdministrativeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdministrativeEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Faculty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Institute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Institute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Participation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Participation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ResearchAssociate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResearchAssociate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/Class Diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/Main.main(String[]).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/State Machine Diagram1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/Use Case Diagram.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36vle5fiwxWWx52E6z35uqM1N0R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,20 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Nick/IdeaProjects/laba10-main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nick/IdeaProjects/laba10-main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nick\IdeaProjects\piaps10\src" />
       <recent name="C:\Users\Nick\IdeaProjects\piaps10\src\pictures" />
+      <recent name="C:\Users\Nick\IdeaProjects\piaps10\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1765895019202</updated>
     </task>
+    <task id="LOCAL-00001" summary="added vpp file">
+      <option name="closed" value="true" />
+      <created>1765906268754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765906268754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added vpp file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added vpp file" />
   </component>
 </project>
